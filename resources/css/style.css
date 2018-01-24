@@ -31,3 +31,16 @@ p{
   font-weight: bold;
   color: white;
 }
+.footer{
+  display: block;
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+
+}
+.footer a{
+  text-decoration: underline;
+  color: white;
+  font-size: 18px;
+}
